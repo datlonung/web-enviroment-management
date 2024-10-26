@@ -1,0 +1,191 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "XbOttsBspnFZoV4Qp0Gy8GCyVVJyo4jJXaE2ELF0dKIEiEUr0m4pjE2PNpygmBB3zbE6HqBtvtljvEEWuXGQl3COa1SS6dO_iYLBGUpB1kPkGilUGpneAkAeiXS2Qd-vQ"
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "Vg3SqYJrPYNlq04Hmwzg3XLddDyqV4efe4RgPaZr5Z5LglK6rlYg73rdfJeeUaXwZrg9L51qIpp-qV63gVeTfFi2fLGpeeh8Nf7tNWZsMm_J-gV4NrQ2Lm3ypViabDODb"
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {},
+            "legs": [
+                {
+                    "distance": {
+                        "text": "526 m",
+                        "value": 526
+                    },
+                    "duration": {
+                        "text": "4 phút",
+                        "value": 211
+                    },
+                    "end_address": "76/59b Phan Trọng Tuệ, Hòa Cường, Hòa Cường Nam, Hải Châu, Đà Nẵng",
+                    "end_location": {
+                        "lat": 16.03293,
+                        "lng": 108.22018
+                    },
+                    "start_address": "33 Xô Viết Nghệ Tĩnh, Hòa Cường, Hòa Cường Nam, Hải Châu, Đà Nẵng",
+                    "start_location": {
+                        "lat": 16.03231,
+                        "lng": 108.22109
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "28 m",
+                                "value": 28
+                            },
+                            "duration": {
+                                "text": "2 phút",
+                                "value": 128
+                            },
+                            "end_location": {
+                                "lat": 16.03247,
+                                "lng": 108.22126
+                            },
+                            "html_instructions": "Bắt đầu đi",
+                            "maneuver": "left",
+                            "polyline": {
+                                "points": "}hz`By|osSUGIY"
+                            },
+                            "start_location": {
+                                "lat": 16.03231,
+                                "lng": 108.22109
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "180 m",
+                                "value": 180
+                            },
+                            "duration": {
+                                "text": "2 phút",
+                                "value": 120
+                            },
+                            "end_location": {
+                                "lat": 16.0328,
+                                "lng": 108.22276
+                            },
+                            "html_instructions": "Rẽ trái vào Xô Viết Nghệ Tĩnh",
+                            "maneuver": "left",
+                            "polyline": {
+                                "points": "}iz`B{}osS_@BQmDOaC"
+                            },
+                            "start_location": {
+                                "lat": 16.03247,
+                                "lng": 108.22126
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "241 m",
+                                "value": 241
+                            },
+                            "duration": {
+                                "text": "59 giây",
+                                "value": 59
+                            },
+                            "end_location": {
+                                "lat": 16.03264,
+                                "lng": 108.2206
+                            },
+                            "html_instructions": "Quay đầu để vào Xô Viết Nghệ Tĩnh",
+                            "maneuver": "uturn",
+                            "polyline": {
+                                "points": "_lz`BggpsSQBp@jL"
+                            },
+                            "start_location": {
+                                "lat": 16.0328,
+                                "lng": 108.22276
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "36 m",
+                                "value": 36
+                            },
+                            "duration": {
+                                "text": "17 giây",
+                                "value": 17
+                            },
+                            "end_location": {
+                                "lat": 16.03297,
+                                "lng": 108.22056
+                            },
+                            "html_instructions": "Rẽ phải vào Trịnh Công Sơn",
+                            "maneuver": "right",
+                            "polyline": {
+                                "points": "_kz`BwyosSaAF"
+                            },
+                            "start_location": {
+                                "lat": 16.03264,
+                                "lng": 108.2206
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "41 m",
+                                "value": 41
+                            },
+                            "duration": {
+                                "text": "14 giây",
+                                "value": 14
+                            },
+                            "end_location": {
+                                "lat": 16.03293,
+                                "lng": 108.22018
+                            },
+                            "html_instructions": "Rẽ trái vào Phan Trọng Tuệ",
+                            "maneuver": "left",
+                            "polyline": {
+                                "points": "amz`BoyosSFjA"
+                            },
+                            "start_location": {
+                                "lat": 16.03297,
+                                "lng": 108.22056
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0 m",
+                                "value": 0
+                            },
+                            "duration": {
+                                "text": "0 giây",
+                                "value": 0
+                            },
+                            "end_location": {
+                                "lat": 16.03293,
+                                "lng": 108.22018
+                            },
+                            "html_instructions": "Bạn đã đến điểm đích",
+                            "maneuver": "left",
+                            "polyline": {
+                                "points": "ylz`BcwosS"
+                            },
+                            "start_location": {
+                                "lat": 16.03293,
+                                "lng": 108.22018
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ]
+                }
+            ],
+            "overview_polyline": {
+                "points": "}hz`By|osSUGIY_@BQmDOaCQBp@jLaAFFjA"
+            },
+            "summary": "",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ]
+}

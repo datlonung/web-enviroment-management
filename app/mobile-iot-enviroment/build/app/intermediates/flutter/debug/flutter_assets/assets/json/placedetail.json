@@ -1,0 +1,28 @@
+{
+    "result": {
+        "place_id": "Xa95yKl5m01nb94la3KqbVlSpst53DaYXfrt9KWVW44Cpgp4bNlP5iHq_5wWca5urbLtPN11RiMiq3aheNnmA40_cqB4",
+        "formatted_address": "33 Xô Viết Nghệ Tĩnh, Hoà Cường Nam, Hải Châu, Đà Nẵng",
+        "geometry": {
+            "location": {
+                "lat": 16.0328236,
+                "lng": 108.2211615
+            }
+        },
+        "plus_code": {
+            "compound_code": "",
+            "global_code": ""
+        },
+        "compound": {
+            "district": "Hải Châu",
+            "commune": "Hòa Cường Nam",
+            "province": "Đà Nẵng"
+        },
+        "name": "33 xô viết nghệ tĩnh",
+        "url": "https://maps.goong.io/?pid=Xa95yKl5m01nb94la3KqbVlSpst53DaYXfrt9KWVW44Cpgp4bNlP5iHq_5wWca5urbLtPN11RiMiq3aheNnmA40_cqB4",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "status": "OK"
+}

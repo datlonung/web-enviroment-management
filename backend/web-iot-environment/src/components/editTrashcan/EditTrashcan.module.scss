@@ -1,0 +1,125 @@
+.wrapper_form {
+    background-color: #fff !important;
+    width: 100% !important;
+
+
+    .wrapper_form_input_form {
+        width: 300px !important;
+        min-height: 45px !important;
+        max-height: 109px;
+        border-radius: 5px;
+        padding: 5px;
+
+        background-color: #cccccc66 !important;
+
+        .input_form {
+            width: 100%;
+            border-radius: 5px;
+            max-height: 96px;
+            font-size: 16px;
+            color: #373535f6;
+            height: 100%;
+            border: none;
+            outline: none;
+            background-color: transparent;
+        }
+    }
+
+    .wrapper_form_input_form_height,
+    .wrapper_form_input_form_width {
+        width: 100px !important;
+        min-height: 45px !important;
+        max-height: 200px;
+        border-radius: 5px;
+        padding: 5px;
+
+        background-color: #cccccc66 !important;
+
+        .input_form {
+            width: 100%;
+            border-radius: 5px;
+            max-height: 190px;
+            font-size: 19px;
+            color: #373535f6;
+            height: 100%;
+            border: none;
+            outline: none;
+            background-color: transparent;
+        }
+
+        .input_form_count_trash_child {
+            width: 100%;
+            border-radius: 5px;
+            max-height: 190px;
+            font-size: 19px;
+            color: #373535f6;
+            height: 100%;
+            border: none;
+            outline: none;
+            background-color: transparent;
+
+            &:hover {
+                cursor: not-allowed;
+            }
+        }
+    }
+
+
+}
+
+.add {
+    width: 100px;
+    height: 30px;
+}
+
+.modal_wrapper {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 20%;
+    border-radius: 8px;
+    height: 150px;
+    background-color: #fff;
+
+    .modal_wrapper_top {
+        height: 40px;
+        border-bottom: 1px solid #0000005a;
+
+        p {
+            font-size: 14px;
+            font-weight: 600;
+            color: #000000a7;
+            padding-left: 5px;
+            padding-top: 20px;
+        }
+    }
+
+    .modal_wrapper_center {
+        height: 65px;
+        border-bottom: 1.5px solid #0000005a;
+
+        h3 {
+            font-size: 19px;
+            font-weight: 600;
+            color: #000000ee;
+            padding-left: 5px;
+            padding-top: 36px;
+        }
+    }
+
+    .modal_wrapper_bottom {
+        height: 45px;
+        width: 97%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+
+    }
+
+
+}
+
+.wrapper_googmap {
+    height: 100vh;
+}
+

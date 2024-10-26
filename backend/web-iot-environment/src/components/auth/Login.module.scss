@@ -1,0 +1,108 @@
+.left-card {
+  border-right: 1px solid #f1f1f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+.wrap-card-login {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  box-shadow: 1px 3px 20px -3px #888888;
+  border-radius: 10px;
+  width: 50%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 50px;
+  width: 90%;
+  height: 90%;
+}
+
+.title-br {
+  width: 20px;
+  border: 1px solid #8b57f9;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.title-content p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #767682;
+}
+
+.body-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputBox,
+.btn {
+  height: 40px;
+  width: 100%;
+  border-radius: 15px;
+  border: 1px solid #f1f0f5;
+}
+
+.btn {
+  border: none;
+  background-color: #8b57f9;
+  color: white;
+}
+
+.footed-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-card {
+  margin-top: 20px;
+}
+
+.right-card {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.inputBox,
+.footed-card a:first-child {
+  margin-bottom: 10px;
+}
+
+.footed-card a {
+  text-decoration: none;
+  color: #8b57f9;
+}
+
+.inputBox {
+  padding: 10px;
+}
+
+input[type=button] {
+  padding: 0px;
+}
+
+.body-card>.errorLabel {
+  color: red;
+  font-size: 12px;
+  margin: 0px;
+}

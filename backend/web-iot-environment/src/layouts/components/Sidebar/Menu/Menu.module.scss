@@ -1,0 +1,149 @@
+.menu-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    letter-spacing: 0.1em;
+    font-size: 1.4rem;
+    font-weight: 500;
+    padding: 10px 0;
+    border-radius: 8px;
+    color: #ccc;
+    margin-bottom: 5px;
+
+    a {
+        text-decoration: none;
+    }
+
+    .wrapper_item {
+        display: flex;
+        position: relative;
+    }
+
+    .icon {
+        color: #8a8383;
+        width: 22px;
+        margin-left: 15px;
+    }
+
+    &.active {
+        color: #fff;
+        background-color: #4B49AC;
+
+        .icon {
+            display: none;
+        }
+
+        .active-icon {
+            width: 22px;
+            display: flex;
+            margin-left: 15px;
+            color: #fff;
+        }
+
+        .title {
+            color: #fff;
+        }
+
+    }
+
+    &:hover {
+        border-radius: 8px;
+        background-color: #4B49AC;
+
+        .title {
+            color: #fff;
+        }
+
+        .icon {
+            color: #fff;
+        }
+
+        transition: all 0.3s ease-in-out;
+    }
+
+
+    .faAngleUp {
+        transform: rotate(0deg);
+        position: absolute;
+        height: 15px;
+        width: 15px;
+        right: 20px;
+        top: 4px;
+        transition: all 0.3s ease-in-out;
+        color: #ccc;
+    }
+
+    .faAngleUp.active {
+        transform: rotate(180deg) !important;
+        transition: all 0.3s ease-in-out;
+        color: #fff;
+    }
+}
+
+.title {
+    margin-left: 5px;
+    color: #8a8383;
+}
+
+.icon,
+.active-icon {
+    display: flex;
+}
+
+
+.active-icon {
+    display: none;
+}
+
+
+.children_item {
+    margin-left: 40px;
+    padding: 5px;
+    border-left: 2px solid #ccc;
+
+    .wrapper_text {
+        padding: 9px 0px;
+
+        .text {
+            margin-left: 5px;
+            color: #ccc;
+            font-size: 1.2rem;
+            font-weight: 500;
+            letter-spacing: 0.1em;
+
+            &:hover {
+                color: #fff;
+                transition: all 0.3s ease-in-out;
+            }
+        }
+    }
+
+}
+
+.menu-item.toogle {
+    height: 41px !important;
+}
+
+
+.faAngleUp.toogle {
+    transform: rotate(0deg);
+    position: absolute;
+    height: 40px;
+    width: 15px;
+    right: 20px;
+    top: 4px;
+    transition: all 0.3s ease-in-out;
+    color: #ccc;
+}
+
+.children_item.toogle {
+    margin-top: 20px;
+    margin-left: 0;
+    border-radius: 8px;
+    background-color: #4b49ac;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    border-left: 2px solid #ccc;
+
+}

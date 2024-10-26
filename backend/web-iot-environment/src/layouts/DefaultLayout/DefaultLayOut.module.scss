@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+
+    .container {
+        display: flex;
+        margin-top: var(--defautl-layout-header-height);
+        transition: all 0.3s ease-in-out;
+
+        .content {
+            margin-left: var(--default-layout-sidebar-width);
+            flex: 1;
+        }
+    }
+}
+
+.content.active {
+    margin-left: 80px !important;
+    transition: all 0.3s ease-in-out;
+}

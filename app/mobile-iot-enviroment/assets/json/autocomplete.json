@@ -1,0 +1,234 @@
+{
+  "predictions": [
+    {
+      "description": "33 Xô Viết Nghệ Tĩnh, Hòa Cường, Hòa Cường Nam, Hải Châu, Đà Nẵng",
+      "matched_substrings": [],
+      "place_id": "Xa95yKl5m01nb94la3KqbVlSpst53DaYXfrt9KWVW44Cpgp4bNlP5iHq_5wWca5urbLtPN11RiMiq3aheNnmA40_cqB4",
+      "reference": "Xa95yKl5m01nb94la3KqbVlSpst53DaYXfrt9KWVW44Cpgp4bNlP5iHq_5wWca5urbLtPN11RiMiq3aheNnmA40_cqB4",
+      "structured_formatting": {
+        "main_text": "33 Xô Viết Nghệ Tĩnh",
+        "main_text_matched_substrings": [],
+        "secondary_text": "Hòa Cường, Hòa Cường Nam, Hải Châu, Đà Nẵng",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": false,
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "compound": {
+        "district": "",
+        "commune": "",
+        "province": ""
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "33 Xô Viết Nghệ Tĩnh"
+        },
+        {
+          "offset": 27,
+          "value": "Hòa Cường"
+        },
+        {
+          "offset": 42,
+          "value": "Hòa Cường Nam"
+        },
+        {
+          "offset": 61,
+          "value": "Hải Châu"
+        },
+        {
+          "offset": 74,
+          "value": "Đà Nẵng"
+        }
+      ],
+      "types": [],
+      "distance_meters": null
+    },
+    {
+      "description": "33 xô viết nghệ tĩnh, Xô Viết Nghệ Tĩnh, Hòa Cường, Hòa Cường Nam, Hải Châu, Đà Nẵng",
+      "matched_substrings": [],
+      "place_id": "wGPWecOA2T0NIZHE7sWP8z2fDQESvYKDWTKVpN7di-e8RtnEBgVT17nWmX0K1nlFyhcL5KaVnloJntFNAt0ie_QC2KFE",
+      "reference": "wGPWecOA2T0NIZHE7sWP8z2fDQESvYKDWTKVpN7di-e8RtnEBgVT17nWmX0K1nlFyhcL5KaVnloJntFNAt0ie_QC2KFE",
+      "structured_formatting": {
+        "main_text": "33 xô viết nghệ tĩnh",
+        "main_text_matched_substrings": [],
+        "secondary_text": "Xô Viết Nghệ Tĩnh, Hòa Cường, Hòa Cường Nam, Hải Châu, Đà Nẵng",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": false,
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "compound": {
+        "district": "",
+        "commune": "",
+        "province": ""
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "33 xô viết nghệ tĩnh"
+        },
+        {
+          "offset": 27,
+          "value": "Xô Viết Nghệ Tĩnh"
+        },
+        {
+          "offset": 52,
+          "value": "Hòa Cường"
+        },
+        {
+          "offset": 67,
+          "value": "Hòa Cường Nam"
+        },
+        {
+          "offset": 86,
+          "value": "Hải Châu"
+        },
+        {
+          "offset": 99,
+          "value": "Đà Nẵng"
+        }
+      ],
+      "types": [],
+      "distance_meters": null
+    },
+    {
+      "description": "33 Láng Hạ, Phường Thành Công, Quận Ba Đình, Thành phố Hà Nội",
+      "matched_substrings": [],
+      "place_id": "IL1aTaSPrnhfo1JovUKD80y_Um6JfYCOWJZaNokal4txkEIUun31j3K8fz69fqn4ccpgN6Rsk4hyy4cBjxmPIW7KzzuJb22Ma693ZTY_xf-Zqo0oZuRmfj2iVQjKPGPTP",
+      "reference": "IL1aTaSPrnhfo1JovUKD80y_Um6JfYCOWJZaNokal4txkEIUun31j3K8fz69fqn4ccpgN6Rsk4hyy4cBjxmPIW7KzzuJb22Ma693ZTY_xf-Zqo0oZuRmfj2iVQjKPGPTP",
+      "structured_formatting": {
+        "main_text": "33 Láng Hạ",
+        "main_text_matched_substrings": [],
+        "secondary_text": "Phường Thành Công, Quận Ba Đình, Thành phố Hà Nội",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": false,
+      "plus_code": {
+        "compound_code": "+6AO56 Thành Công, Ba Đình, Hà Nội",
+        "global_code": "LNEZ+6AO56"
+      },
+      "compound": {
+        "district": "Ba Đình",
+        "commune": "Thành Công",
+        "province": "Hà Nội"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "33 Láng Hạ"
+        },
+        {
+          "offset": 14,
+          "value": "Phường Thành Công"
+        },
+        {
+          "offset": 38,
+          "value": "Quận Ba Đình"
+        },
+        {
+          "offset": 56,
+          "value": "Thành phố Hà Nội"
+        }
+      ],
+      "types": [
+        "house_number"
+      ],
+      "distance_meters": null
+    },
+    {
+      "description": "33 Yên Hòa, Yên Hòa, Cầu Giấy, Hà Nội",
+      "matched_substrings": [],
+      "place_id": "p0oHEIeHwEVutiFKsEv47maJJ3-2ZGXvVrQsQoCLTYVRmCk8t2iUzmOlWQisdZ-CeWBgNq5Km8fDpkoHtHdl3m78dI-1EYdCY6dRzq13h-5inasRsT6BXh2BCtRGHOvzH",
+      "reference": "p0oHEIeHwEVutiFKsEv47maJJ3-2ZGXvVrQsQoCLTYVRmCk8t2iUzmOlWQisdZ-CeWBgNq5Km8fDpkoHtHdl3m78dI-1EYdCY6dRzq13h-5inasRsT6BXh2BCtRGHOvzH",
+      "structured_formatting": {
+        "main_text": "33 Yên Hòa",
+        "main_text_matched_substrings": [],
+        "secondary_text": "Yên Hòa, Cầu Giấy, Hà Nội",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": false,
+      "plus_code": {
+        "compound_code": "+661FD Yên Hòa, Cầu Giấy, Hà Nội",
+        "global_code": "LOBZ+661FD"
+      },
+      "compound": {
+        "district": "Cầu Giấy",
+        "commune": "Yên Hòa",
+        "province": "Hà Nội"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "33 Yên Hòa"
+        },
+        {
+          "offset": 2,
+          "value": "Yên Hòa"
+        },
+        {
+          "offset": 24,
+          "value": "Cầu Giấy"
+        },
+        {
+          "offset": 38,
+          "value": "Hà Nội"
+        }
+      ],
+      "types": [
+        "house_number"
+      ],
+      "distance_meters": null
+    },
+    {
+      "description": "33 Vũ Hữu, Nhân Chính, Thanh Xuân, Hà Nội",
+      "matched_substrings": [],
+      "place_id": "tJEhtTX9m2VHLDKMowKvyncbblimZZq5fJYLbqNknblFijsQvFyzl3K0QA6-Z4uSPa3JipxFf7tONaDOTvHaZd0W0PwOknaeQcbVDV5VZlfxwj1ADowOFlXKnWCiVAu7V",
+      "reference": "tJEhtTX9m2VHLDKMowKvyncbblimZZq5fJYLbqNknblFijsQvFyzl3K0QA6-Z4uSPa3JipxFf7tONaDOTvHaZd0W0PwOknaeQcbVDV5VZlfxwj1ADowOFlXKnWCiVAu7V",
+      "structured_formatting": {
+        "main_text": "33 Vũ Hữu",
+        "main_text_matched_substrings": [],
+        "secondary_text": "Nhân Chính, Thanh Xuân, Hà Nội",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": false,
+      "plus_code": {
+        "compound_code": "+6HGGA Nhân Chính, Thanh Xuân, Hà Nội",
+        "global_code": "LO65+6HGGA"
+      },
+      "compound": {
+        "district": "Thanh Xuân",
+        "commune": "Nhân Chính",
+        "province": "Hà Nội"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "33 Vũ Hữu"
+        },
+        {
+          "offset": 13,
+          "value": "Nhân Chính"
+        },
+        {
+          "offset": 27,
+          "value": "Thanh Xuân"
+        },
+        {
+          "offset": 40,
+          "value": "Hà Nội"
+        }
+      ],
+      "types": [
+        "house_number"
+      ],
+      "distance_meters": null
+    }
+  ],
+  "execution_time": "",
+  "status": "OK"
+}

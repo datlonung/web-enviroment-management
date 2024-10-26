@@ -1,0 +1,17 @@
+.wrapper {
+    width: 13rem;
+
+    .wrapper-child {
+        width: 100%;
+
+        .wrapper-child_second {
+            width: 100px;
+            height: 60px;
+
+            .image1 {
+                width: 40px;
+                height: 40px;
+            }
+        }
+    }
+}
